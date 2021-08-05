@@ -7,9 +7,13 @@ the process.
 Components used:
 CamJam EduKit3
 Chassis made from CamJam box
+HR-SC04 ultrasonic module
+4 male-male jumper leads
+330Ω resistor
+470Ω resistor
 
 Language: Python
-Library: RPi.GPIO (Raspberry Pi General Purpose Input and Output)
+Library: gpiozero (Raspberry Pi General Purpose Input and Output)
 
 
 A short video of the rover in action:
